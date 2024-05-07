@@ -8,4 +8,4 @@ This is a Chrome unpacked extension serving as a UX prototype that behaves as an
    OR click the Chrome menu, hover over More Tools, then select Extensions.
 4. Enable Developer Mode by clicking the toggle switch with the Developer mode label.
 5. Choose the Load unpacked button and select allrecipes-prototype-chrome-extension directory.
-6. Go to www.allrecipes.com to experience our prototype.
+6. Go to www.allrecipes.com to experience the prototype.
